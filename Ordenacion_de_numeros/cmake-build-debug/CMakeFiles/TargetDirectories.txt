@@ -1,0 +1,3 @@
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ordenacion_de_numeros/cmake-build-debug/CMakeFiles/Ordenacion_de_numeros.dir
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ordenacion_de_numeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/Desktop/CLyen C++/Ejercicios en clase/Ordenacion_de_numeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
